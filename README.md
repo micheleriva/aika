@@ -1,4 +1,4 @@
-<img src="/src/aika_logo.png" align="center" />
+<img src="/docs/aika_logo.png" align="center" />
 
 **Aika** is a simple key-value in-memory database compatible with Redis.
 
